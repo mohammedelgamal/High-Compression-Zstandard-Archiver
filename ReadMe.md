@@ -23,7 +23,7 @@ To run this script, you need:
 
 1.  **Download the script:**
     ```bash
-    wget https://raw.githubusercontent.com/your_repo/main/main.py 
+    wget [https://raw.githubusercontent.com/your_repo](https://github.com/mohammedelgamal/High-Compression-Zstandard-Archiver/main/main.py 
     mv main.py zstd_archiver.py
     ```
 
